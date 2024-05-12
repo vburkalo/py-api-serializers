@@ -15,7 +15,9 @@ from cinema.serializers import (
     MovieListSerializer,
     MovieSessionListSerializer,
     MovieDetailSerializer,
-    MovieSessionDetailSerializer, MovieSessionCreateSerializer, MovieCreateSerializer,
+    MovieSessionDetailSerializer,
+    MovieSessionCreateSerializer,
+    MovieCreateSerializer,
 )
 
 
